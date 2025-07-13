@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public IActionResult Index()
         {
-            return View("Hello there how are you");
+            return View("Hello there there how are you");
         }
 
         public IActionResult Privacy()
